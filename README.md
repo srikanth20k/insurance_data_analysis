@@ -34,10 +34,6 @@ To design and implement a comprehensive dashboard for insurance analytics at PRI
 ## Final Conclusion
 This dashboard provides a holistic view of the insurance business performance, highlighting key financials, operations, and customer demographics. Stakeholders can easily track premium generation, claims processing efficiency, policy status distribution, and identify business opportunities or pain points. Automated, data-driven insights foster enhanced decision-making and ongoing business growth.
 
-
-
 ## Image of Dashboard
+<a href="https://github.com/srikanth20k/insurance_project/blob/main/insurance_project.png">View Image</a>
 
----
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/128026303/8aad5d0d-9d21-4baa-966f-b9573f7b21e4/image.jpg?AWSAccessKeyId=ASIA2F3EMEYESRUP7GBV&Signature=%2Bf9cdw2XMRdIG%2FupU37zBGnT22c%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIBAP59rbiqB0Ga94yDmuHQyIG88%2FcJ6FAftyD4N7HtklAiBnvJi%2FXc9cFV1Fk135lBC0UTTZy3uprVRobVPdPfXozyrzBAhXEAEaDDY5OTc1MzMwOTcwNSIMB5jeOoJ9VGvKls6IKtAEkoOjbKm6BjOZBj%2B35%2FNRN7wQ0txlDfqJkTExWKKef10Bp%2BbtwkF4zhyu9efQEuVqfU%2B1zyeryEhfgoiuZ6036JmDMxBZGkL7BlzYIhaiV5Kel0ierqQ39U9fz7F1mO427m6%2F2cLXXCccuPELWW5Xgqebbco0b9BH%2BfCNs8tG8h5nCLzwbM4u%2BehC62w02mOgZV7XO8AWCc9mpA33fJbxU%2Bb%2FSOlLzDbmiv0x6vpKy7iTu6esEyo1%2FUKsOgqu2ziDA82tXOr23p5B8PYlFpKtkGzx7U%2B3%2Bpokh%2FefQEjHul3%2BVRy6j25kPGRn3mRhHm%2Bl0uYa2TwTwMyhdDThjevVuSiV%2BWZxcDRCQQJhbKJK%2FjroaBuKebjErHNL1iaygBo8zeBuDY6sva7mmeHcHkcHproWVaSN210t%2BLvrtFBh97vmqxryGHqt%2FmBKKH9e9x8hdxFgEcRXNOfDJU5FRtDei5M0b2Gkn6ZNL6bAnw4AufpQNFSUWbasXcBY71PaCEA1Y1k2%2FfJPoxfc5x0iJ5H8UQGedhBIp%2BxIcS4Ix%2FnbdKsP%2BbvTBG7gIvOr%2FRa4SoLlpUUNLQRfmbzLcuowmmJxtDoubfsvv%2FphxVLs2B5W4OX5y%2B0k9VV1j9UPVf9rzKnNRmoNoBd4qc8CmM%2BvScI6Yego2zFXeh1ivzSxH8Fa8XJJ%2Foqsqf7O7j%2FB3OIYqYo4D9SZpyDfFHxmtyKMHkY%2BMtpKsWcSeB8jXbI1NDhPOtbYf4tIjP2jh2ocA3uDcHoFT%2Fo4lk3JdfdJXa0R8RiJeDCd%2BaDIBjqZASJULQpHVD%2B%2FSNv1bMGzJZ916u9vxDBZNuIyedAZtIXZlQfSrwTbbqfzzrs3oJgwJtKGYGKt3Mx%2Fofwhf3qjS77%2FRKJK9GVpUWh9WglW%2BooBrOhQvjxmVn0PNLjmLeJ8sDHj518xyBl%2BmyZJ3fBXvEaH4GPuB7FniWtWL7BmRBKDEDL3z%2FOFRNKEcV%2BZpWxw8nkRfWOEbO0MJQ%3D%3D&Expires=1762148964)
