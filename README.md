@@ -28,11 +28,15 @@ To design and implement a comprehensive dashboard for insurance analytics at PRI
 | Rejected claim amount by policy type?              | Auto: 4,06,71,711.52; Health: 5,24,01,928.46; Home: 7,14,06,202.61; Life: 3,37,22,751.55; Travel: 10,73,95,611.47 |
 | Settled claim amount by policy type?               | Auto: 3,29,84,558.26; Health: 4,00,17,100.09; Home: 9,03,11,027.10; Life: 3,21,21,204.60; Travel: 1,46,83,353.08 |
 
-## Dashboard
+## Interactive Dashboard
 <a href="https://github.com/srikanth20k/insurance_project/blob/main/insurance_dashboard.pbix">View Dashboard</a>
 
 ## Final Conclusion
 This dashboard provides a holistic view of the insurance business performance, highlighting key financials, operations, and customer demographics. Stakeholders can easily track premium generation, claims processing efficiency, policy status distribution, and identify business opportunities or pain points. Automated, data-driven insights foster enhanced decision-making and ongoing business growth.
+
+
+
+## Image of Dashboard
 
 ---
 
